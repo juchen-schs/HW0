@@ -60,3 +60,6 @@ Don't forget: use \" instead of " !
 '' is not the same as "
 ```
 The `MuchBetter.java` file has already been created for you in the `src` folder.
+
+# Submitting Your Work
+Navigate to the "Version Control" icon on the left sidebar in Repl.it. Type a summary of your changes in the box that asks, "What did you change?" (e.g. I answered all of the homework problems.) Then submit your work by clicking the green `commit & push` button.
