@@ -1,0 +1,2 @@
+language = "java10"
+run = "echo ''; javac -d . src/*.java; echo ''; for srcfile in $(ls src/*.java); do file=${srcfile#src/}; echo ====== Executing $file ======; java ${file%.java}; done"
